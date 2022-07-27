@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #953800;}
+.valueColor {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
+
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">                            ==-.               </tspan>
+<tspan x="15" y="50">                     :-=++*%@@%#*-             </tspan>
+<tspan x="15" y="70">                  =####%%%@@@@%%*.             </tspan>
+<tspan x="15" y="90">                .+%%%%%%%####**#%%+            </tspan>
+<tspan x="15" y="110">               =%%%%%%%%@%%%%%%#*+#-          </tspan>
+<tspan x="15" y="130">             .#%%%%%%%%%%###*****##*:         </tspan>
+<tspan x="15" y="150">             +%%%%%%%%#**++==-::---#%         </tspan>
+<tspan x="15" y="170">             #%%%%@%%#***++==--:::..*         </tspan>
+<tspan x="15" y="190">            :%%%%%#******++=--:::::..         </tspan>
+<tspan x="15" y="210">          .**#%%%#*****###%%%%*=:::..         </tspan>
+<tspan x="15" y="230">          +**#*#%*++***##+%%%##+==+*=         </tspan>
+<tspan x="15" y="250">          -**#**#*++++==++++***+-+##=         </tspan>
+<tspan x="15" y="270">           **#**#***++=--:--==+=:-=-          </tspan>
+<tspan x="15" y="290">           ##***%#****+==---++++:..           </tspan>
+<tspan x="15" y="310">          :@@%+#%##***++==-+*+*+-..           </tspan>
+<tspan x="15" y="330">          =@@%+####***+++==+*##*=:.           </tspan>
+<tspan x="15" y="350">          =@@%+#####********##*+=.            </tspan>
+<tspan x="15" y="370">        ...:-++*#************+===.            </tspan>
+<tspan x="15" y="390"> :::::::::--*++*********+++***=:..::          </tspan>
+<tspan x="15" y="410"> ::::::::::=*++++****##***++==:..--:.         </tspan>
+<tspan x="15" y="430"> :::::::::::+**++++++++******-..:--.:         </tspan>
+<tspan x="15" y="450"> :::-::::::::=*******+++-:-:  .:--:.:         </tspan>
+<tspan x="15" y="470"> .:::---::::::::-====-:...-. .::-:..:         </tspan>
+<tspan x="15" y="490">  :::::---::::...........-. .:::::.::.        </tspan>
+<tspan x="15" y="510">  :::::::::--:::::.::..:-. .:::.:..::.        </tspan>
+</text>
+
+<text x="410" y="30" fill="#24292f">
+<tspan x="410" y="30">nipun@sandeep</tspan>
+<tspan x="410" y="50">——————</tspan>
+<tspan x="410" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows, Linux</tspan>
+<tspan x="410" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">24 years, 09 months</tspan>
+<tspan x="410" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Sri Lanka Institute of Information Technology</tspan><tspan class="commentColor"> #SLIIT</tspan>
+<tspan x="410" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Systems and Network Engineering</tspan><tspan class="commentColor"> #CSNE</tspan>
+<tspan x="410" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, Eclipse, Arduino IDE, Remix IDE</tspan>
+<tspan x="410" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, C, JavaScript, Solidity</tspan>
+<tspan x="410" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, YAML, Bash</tspan>
+<tspan x="410" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Sinhala</tspan>
+<tspan x="410" y="270" class="keyColor">Cloud</tspan>.<tspan class="keyColor">Hosting</tspan>: <tspan class="valueColor">Amazon AWS, Azure, Heroku</tspan>
+<tspan x="410" y="290" class="keyColor">DevOps</tspan>.<tspan class="keyColor">Tools</tspan>: <tspan class="valueColor">Docker, Kubernetes, Jenkins, Terraform</tspan>
+<tspan x="410" y="310" class="keyColor">Version</tspan>.<tspan class="keyColor">Controlling</tspan>: <tspan class="valueColor">Git, Github, Gitlab</tspan>
+<tspan x="410" y="330" class="keyColor">Databases</tspan>: <tspan class="valueColor">MySQL, Firebase</tspan>
+<tspan x="410" y="370" class="keyColor">Contact</tspan>:
+<tspan x="410" y="390">——————</tspan>
+<tspan x="410" y="410" class="keyColor">Email</tspan>: <tspan class="valueColor">nipunsandeep97@gmail.com</tspan>
+<tspan x="410" y="430" class="keyColor">Medium</tspan>: <tspan class="valueColor">nipunsandeep97</tspan>
+<tspan x="410" y="450" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">NipunS97</tspan>
+<tspan x="410" y="500" class="keyColor">2022 Goals</tspan>: <tspan class="valueColor">Contribute to Web3 related projects </tspan>
+</text>
+
+</svg>
